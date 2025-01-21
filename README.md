@@ -4,8 +4,10 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 
 ## 🛠️ Technologies & Skills
 
-- **Backend:** C#, Entity Framework, SQL Server  
+- **Backend:** C# (.NET Core, .NET Framework), ASP.NET MVC, ASP.NET Core MVC, SignalR  
 - **Frontend:** Vue.js , AngularJS, JavaScript, jQuery, HTML, CSS
+- **Database & ORM:** SQL Server, Entity Framework
+- **Windows Applications:** WPF, Windows Forms
 - **Programming Languages:** C#, JavaScript, Java, Python
 - **Tools & Platforms:** Visual Studio, Visual Studio Code, WebStorm, Android Studio, Git
 
